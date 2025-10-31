@@ -8,6 +8,8 @@ Each script demonstrates a core concept of neural networks, training loops, and 
 <ln>
   
 📁 Project Structure
+
+```
 ├── basics.py                 # Intro to PyTorch tensors and basic operations  
 ├── backpropagation.py        # Manual implementation of backpropagation  
 ├── Gradient.py               # Gradient computation and autograd demo  
@@ -19,6 +21,8 @@ Each script demonstrates a core concept of neural networks, training loops, and 
 ├── Data_Loader_and_Transform.py  # Using Datasets, Dataloaders, and transforms  
 ├── /images  # Output Images 
 └── README.md                 # Project documentation  
+```
+
 <ln>
 🚀 Features Covered
 * Understanding Tensors and Autograd
@@ -44,6 +48,6 @@ Framework: PyTorch
 🧑‍💻 Author
 Vedant Ranade
 📍 AI & Data Science Enthusiast
-🔗 (LinkdIn)[https://www.linkedin.com/in/vedant-ranade-683867271]
+🔗 LinkedIn: [https://www.linkedin.com/in/vedant-ranade-683867271]
 
 Would you like me to make it more technical (with installation and run commands like python CNN.py) or keep it clean and portfolio-friendly like above?
